@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Asset Studio"
+  short_description: "Faithful UI asset processing and SVG workflows"
+  default_prompt: "Use $ui-asset-studio to process this UI asset without redesigning it."

@@ -1,0 +1,32 @@
+{
+  "name": "ui-asset-studio",
+  "version": "1.0.0",
+  "description": "Faithful offline UI asset processing and Sketch-safe SVG workflows for Codex.",
+  "author": {
+    "name": "Qiyue Feng",
+    "url": "https://github.com/qiyue2015"
+  },
+  "homepage": "https://github.com/qiyue2015/ui-asset-studio",
+  "repository": "https://github.com/qiyue2015/ui-asset-studio",
+  "license": "MIT",
+  "keywords": [
+    "ui-assets",
+    "image-processing",
+    "svg",
+    "sketch",
+    "icons"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "UI Asset Studio",
+    "shortDescription": "Faithful UI asset processing and SVG repair.",
+    "longDescription": "Process UI assets faithfully: true-alpha cutouts, safe SVG and Sketch checks, scale exports, icon reviews, and Image-2 prompt shaping.",
+    "developerName": "Qiyue Feng",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "websiteURL": "https://github.com/qiyue2015/ui-asset-studio",
+    "defaultPrompt": "Use $ui-asset-studio to process this UI asset without redesigning it."
+  }
+}
